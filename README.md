@@ -1,4 +1,5 @@
-# College Table Component
+# Hosting Link - https://zesty-duckanoo-ccd456.netlify.app/
+# CollegeDunia
 
 ## Overview
 
@@ -21,7 +22,7 @@ git clone https://github.com/your-username/college-table-component.git
 
 2. Navigate to the project directory:
 
-cd college-table-component
+cd collegedunia
 
 
 3. Install dependencies using npm or yarn:
@@ -43,7 +44,7 @@ yarn start
 
 ## Usage
 
-We can all colleges with their p+fees, placement ,rating , user reviews and sort them as we want 
+We can all see colleges names with their fees, placement ,rating , user reviews and sort them as we want .
 
 
 # Dependencies
