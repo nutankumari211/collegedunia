@@ -108,11 +108,11 @@ return (
 </label>
 <label>
   <input type="radio" name="sortOption" value="fees" onChange={() => handleSort('fees')} />
-  Highest Fees (Asc)
+  Fees (Asc)
 </label>
 <label>
   <input type="radio" name="sortOption" value="feesDesc" onChange={() => handleSort('feesDesc')} />
-  Highest Fees (Desc)
+ Fees (Desc)
 </label>
 <label>
   <input type="radio" name="sortOption" value="ranking" onChange={() => handleSort('ranking')} />
